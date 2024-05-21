@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eliphalet!</h1>
 
+I am a full-stack developer from Canada :canada: I am passionate about exploring noval ideas and building innovative tech solutions for challengeing problems.  I enjoying being involved in projects the entire journey, from brainstorm to release!
+
+I'm currently a newly graduated Junior Developer with fresh ideas!  Check out my full portfolio at my [LethalPie Website!]( www.lethalpie.com)
 <!--
 **LethalPie/LethalPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
