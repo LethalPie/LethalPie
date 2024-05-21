@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliphalet!</h1>
 
-I am a full-stack developer from Canada :canada: I am passionate about exploring noval ideas and building innovative tech solutions for challengeing problems.  I enjoying being involved in projects the entire journey, from brainstorm to release!
+I am a full-stack developer from Canada :canada: I am passionate about exploring novel ideas and building innovative tech solutions for challenging problems.  I enjoying being involved in projects the entire journey, from brainstorm to release!
 
 I'm currently a newly graduated Junior Developer with fresh ideas!  Check out my full portfolio at my [LethalPie Website!]( www.lethalpie.com)
 <!--
